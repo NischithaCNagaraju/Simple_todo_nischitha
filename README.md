@@ -22,7 +22,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-![add_remove_load_save](https://user-images.githubusercontent.com/61173798/104013799-ff6bb780-51d7-11eb-95da-4d3f84052603.gif)
+![add_remove_load_save](https://user-images.githubusercontent.com/61173798/104014657-6d64ae80-51d9-11eb-8e4d-a96d47c8974a.gif)
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
